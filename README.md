@@ -120,8 +120,8 @@ align="left"
 alt="ReactNative"
 title="ReactNative"
 width="30px"
-style="padding-right: 10px;"  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
+style="padding-right: 10px";
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
 />
 
 <img
