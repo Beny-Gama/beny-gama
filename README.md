@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-My name is Benny, I'm 28 years old and a leaved in New York Cite and I Corritry living in Niterói, in the state of Rio de Janeiro, my hometown.
+My name is Benny, I'm 28 years old and a leaved in New York City and I Corritry living in Niterói, in the state of Rio de Janeiro, Brazil. my hometown.
 Since Apr/2024, I have dedicated myself solely and exclusively to the self-taught study of programming, making a lot of online tutorials and teaching myself to improve my knowledge and skills. I created my YouTube channel to share this knowledge: [@BennyGamaYT](<(https://www.youtube.com/@BennyGamaYT)>), where I share my web projects, programming fundamentals, and algorithms.
 
 <p align="left">
@@ -93,14 +93,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
     alt="GitHub stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=beny-gama&show_icons=true&theme=tokyonight&include_all_commits=true&locale"
+    src="https://github-readme-stats.vercel.app/api?username=Beny-Gama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
   />
-
+  
 <img
     align="left"
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=beny-gama&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beny-Gama&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
