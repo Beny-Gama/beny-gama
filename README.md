@@ -1,16 +1,40 @@
-## Hi there 👋
+# Benny Gama
 
-<!--
-**Beny-Gama/beny-gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`FullStack Developer`**
 
-Here are some ideas to get you started:
+My name is Benny, I'm 28 years old and a leaved in New York Cite and I Corritry living in Niterói, in the state of Rio de Janeiro, my hometown.
+Since 2023, I have dedicated myself solely and exclusively to the self-taught study of programming, making a lot of online tutorials and teaching myself to improve my knowledge and skills. I created my YouTube channel to share this knowledge: "[@BennyGamaYT](<(https://www.youtube.com/@BennyGamaYT)>)", where I share my web projects, programming fundamentals, and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://youtube.com/@BennyGamaYT">
+    <img
+      alt="subscribers"
+      title="subscribers"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN1sqp6EsBIwI2TK4t6nweQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
+  </a>
+
+  <a href="https://youtube.com/@BennyGamaYT">
+    <img
+      alt="YouTube views"
+      title="YouTube views"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCN1sqp6EsBIwI2TK4t6nweQ?color=%23E1AD0E&logo=eye&logoCàolor=white&style=for-the-badge&labelColor=C79600"
+    />
+  </a>
+
+  <a href="https://github.com/Beny-Gama?tab=followers">
+    <img
+      alt="Followers"
+      title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/Beny-Gama?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+    <img
+      alt="Total stars"
+      title="Total stars on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+    />
+  </a>
+</p>
