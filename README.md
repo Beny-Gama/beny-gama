@@ -40,52 +40,78 @@ Since Apr/2024, I have dedicated myself solely and exclusively to the self-taugh
 
 ### 🤖 Languages and Technologies
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP_Q64lKbBHd_gyrWi7J5Gys">
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP_uNk8Nc_vN1i3iOfUO9KFr">
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP8_U_6mcp94XjMpTto-FOK5">
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP87zbo2_w4ECUHrF6INvMEv">
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP87zbo2_w4ECUHrF6INvMEv">
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP9HFOnK2G_AJgtW0pbP4lWl">
 <img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP85D9qckn7_zno1EMUh0kSV">
 <img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP9LuNdUvNXBVREHifrFgqMf">
 <img align="left" alt="React" title="React" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP831yLcXnAKYxt4rQBjzMzw">
 <img align="left" alt="React Native" title="React Native" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP_9wiS-9tr5M4IycWDOtnui">
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 
+</a><a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP_rQTvGY6iLeWurL4smKHdJ">
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 
+</a><a href="">
 <img align="left" alt="sqlite" title="sqlite" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP_9wiS-9tr5M4IycWDOtnui">
 <img align="left" alt="mysql" title="mysql" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+</a>
 
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP94xrtQb5IE9xoWHqs9ULQk">
 <img align="left" alt="git" title="git" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</a>
 
-<img align="left" alt="leetocde" title="leetocde" width="30px" style="padding-right:10px;"
-  link="https://www.youtube.com/playlist?list=PL0hfuUjH2DP94xrtQb5IE9xoWHqs9ULQk";
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
-
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP94xrtQb5IE9xoWHqs9ULQk">
+  <img align="left" alt="leetocde" title="leetocde" width="30px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
+</a>
 
 <br clear="left"/>
 <br clear="left"/>
@@ -98,7 +124,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode
     alt="GitHub stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Beny-Gama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=Beny-Gama&show_icons=true&theme=tokyonight&include_all_commits=true&locale="
   />
   
 <img
