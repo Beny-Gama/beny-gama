@@ -34,13 +34,6 @@ Since Apr/2024, I have dedicated myself solely and exclusively to the self-taugh
       src="https://custom-icon-badges.demolab.com/github/stars/Beny-Gama?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
     />
   </a>
-    <a href="https://www.linkedin.com/in/bernardo-gama-6a8906230/?trk=opento_sprofile_topcard">
-    <img
-      alt="Lilekdin"
-      title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/Beny-Gama?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
-    />
-  </a>
 </p>
 
 ---
