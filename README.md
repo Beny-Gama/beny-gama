@@ -8,8 +8,8 @@ Since Apr/2024, I have dedicated myself solely and exclusively to the self-taugh
 <p align="left">
   <a href="https://youtube.com/@BennyGamaYT">
     <img
-      alt="subscribers"
-      title="subscribers"
+      alt="YouTube Subscribers"
+      title="YouTube Subscribers"
       src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN1sqp6EsBIwI2TK4t6nweQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
     />
   </a>
@@ -34,12 +34,20 @@ Since Apr/2024, I have dedicated myself solely and exclusively to the self-taugh
       src="https://custom-icon-badges.demolab.com/github/stars/Beny-Gama?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
     />
   </a>
+    <a href="https://www.linkedin.com/in/bernardo-gama-6a8906230/?trk=opento_sprofile_topcard">
+    <img
+      alt="Lilekdin"
+      title="Total stars on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/Beny-Gama?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+    />
+  </a>
 </p>
 
 ---
 
 ### 🤖 Languages and Technologies
 
+<p>
 <a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP_Q64lKbBHd_gyrWi7J5Gys">
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -53,6 +61,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP8_U_6mcp94XjMpTto-FOK5">
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</a>
+
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP-RP3J54fMnQgwEgwROivkz">
+<img align="left" alt="Canva" title="Canva" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+</a>
+
+<a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP-RP3J54fMnQgwEgwROivkz">
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </a>
 
 <a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP87zbo2_w4ECUHrF6INvMEv">
@@ -112,6 +130,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
   <img align="left" alt="leetocde" title="leetocde" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
 </a>
+</p>
 
 <br clear="left"/>
 <br clear="left"/>
