@@ -3,7 +3,7 @@
 **`FullStack Developer`**
 
 My name is Benny, I'm 28 years old and a leaved in New York City and I currently living in Niterói, in the state of Rio de Janeiro, Brazil. my hometown.
-Since Apr/2024, I have dedicated myself solely and exclusively to the self-taught study of programming, making a lot of online tutorials and teaching myself to improve my knowledge and skills. I created my YouTube channel to share this knowledge: [@BennyGamaYT](<(https://www.youtube.com/@BennyGamaYT)>), where I share my web projects, programming fundamentals, and algorithms.
+Since Apr/2024, I have dedicated myself solely and exclusively to the self-taught study of programming, making a lot of online tutorials and teaching myself to improve my knowledge and skills. I created my YouTube channel to share this knowledge: [@BennyGamaYT](https://www.youtube.com/@BennyGamaYT), where I share my web projects, programming fundamentals, and algorithms.
 
 <p align="left">
   <a href="https://youtube.com/@BennyGamaYT">
