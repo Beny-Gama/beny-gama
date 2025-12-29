@@ -120,7 +120,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 </a>
 
 <a href="https://www.youtube.com/playlist?list=PL0hfuUjH2DP94xrtQb5IE9xoWHqs9ULQk">
-  <img align="left" alt="leetocde" title="leetocde" width="30px" style="padding-right:10px;"
+  <img align="left" alt="leetcode" title="leetcode" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
 </a>
 </p>
